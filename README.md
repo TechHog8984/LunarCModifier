@@ -2,9 +2,9 @@
 This is a python application that allows you to modify the HTML, CSS, &amp; JS of the Lunar Client launcher. This allows limitless possibilities for what the launcher can look like.
 
 ## Dependencies
-[Python3](placeholder)
+[Python3](https://www.python.org/download/releases/3.0/)
 <br>
-[Node.js](placeholder)
+[Node.js](https://nodejs.org/en/)
 
 ## Credits
 [SpotiLight](https://github.com/SK3-4121/SpotiLight) - LunarCModifier is pretty much just a remake of this, but for Lunar Client instead of spotify. Credits to SK3-4121
