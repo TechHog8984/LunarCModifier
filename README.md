@@ -9,6 +9,8 @@ This is a python application that allows you to modify the HTML, CSS, &amp; JS o
 ## Credits
 [SpotiLight](https://github.com/SK3-4121/SpotiLight) - LunarCModifier is pretty much just a remake of this, but for Lunar Client instead of spotify. Credits to SK3-4121
 
+### DISCLAIMER: WINDOWS ONLY (for now)
+
 ## How it works
 The Lunar Client launcher is an electron app, which means that it is pretty much just a website. What we can do is take that electron app, decompile it, edit it (change the css, for example), and then recompile to see your changes.
 
